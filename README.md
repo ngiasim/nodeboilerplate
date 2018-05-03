@@ -11,7 +11,7 @@
 
 	npm install sequelize -save
 	npm install sequelize-cli -save
-
+	OR
 	yarn add sequelize
 	yarn add sequelize-cli
 
