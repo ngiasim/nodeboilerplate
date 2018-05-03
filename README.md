@@ -1,4 +1,4 @@
-# nodeboilerplate
+# node with express boilerplate
 
 	instal node with npm
 	npm install yarn -g
